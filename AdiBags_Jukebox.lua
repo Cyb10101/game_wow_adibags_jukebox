@@ -22,6 +22,7 @@ local filterDatabase = {
 			-- Stash of Dusty Music Rolls: Alliance
 			122201, -- Music Roll: Stormwind
 			122203, -- Music Roll: Ironforge
+			122204, -- Music Roll: Cold Mountain
 			122205, -- Music Roll: Night Song
 			122206, -- Music Roll: Gnomeregan
 			122208, -- Music Roll: Exodar
