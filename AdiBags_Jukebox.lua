@@ -59,9 +59,11 @@ local filterDatabase = {
 			-- Outland
 			122196, -- Music Roll: The Burning Legion
 			122228, -- Music Roll: The Black Temple
+
 			-- Northend
 			122197, -- Music Roll: Wrath of the Lich King
 			122229, -- Music Roll: Invincible
+			122232, -- Music Roll: The Argent Tournament
 			122236, -- Music Roll: Totems of the Grizzlemaw
 			122237, -- Music Roll: Mountains of Thunder
 
