@@ -2,9 +2,9 @@
 
 Addon for World of Warcraft to filter "Jukebox" using AdiBags.
 
-* [Curse: AdiBags_Jukebox](https://www.curseforge.com/wow/addons/adibags-jukebox)
-* [Curse: AdiBags](https://www.curseforge.com/wow/addons/adibags)
-* [Curse: idTip](https://www.curseforge.com/wow/addons/idTip)
+* [CurseForge: AdiBags_Jukebox](https://www.curseforge.com/wow/addons/adibags-jukebox)
+* [CurseForge: AdiBags](https://www.curseforge.com/wow/addons/adibags)
+* [CurseForge: idTip](https://www.curseforge.com/wow/addons/idTip)
 
 ## Development
 
@@ -23,6 +23,19 @@ Required API Authorization:
 source functions.sh
 authentificate "{Your client id}" "{Your client secret}"
 ```
+
+### Deploy
+
+* Update `Interface` id in *.toc file
+
+```bash
+git add *.toc
+git commit
+git tag -f 100002.1
+git push && git push --tags
+```
+
+* Wait until CurseForge build automatically
 
 ### Translation
 
